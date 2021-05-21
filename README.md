@@ -1,5 +1,6 @@
 # MOT Challenge 2015
 Colab Notebook was used to perform the tests
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hhtoMwFxpOGXiXtIjEBeST9rQ6BdF5Gm?usp=sharing)
 
 - Detections were obtained using [Detectron2](https://github.com/facebookresearch/detectron2)
 - The algorithms for multiple object tracking was used are [SORT](https://github.com/abewley/sort) and [Deep SORT](https://github.com/nwojke/deep_sort)
@@ -18,3 +19,9 @@ Colab Notebook was used to perform the tests
   TUD-Campus 55.8% 56.4% 55.2% 76.6% 78.3%  8  3  5  0 76 84   8  10 53.2% 0.235   2   7   1
   OVERALL    55.8% 56.4% 55.2% 76.6% 78.3%  8  3  5  0 76 84   8  10 53.2% 0.235   2   7   1
   ```
+
+# Detectron2 video detections
+![D2 Detections](gifs/TDC-D2D.gif)
+
+# SORT with Detectron2 detections video
+ ![D2 Detections](gifs/TDC-D2D-SORT.gif)
