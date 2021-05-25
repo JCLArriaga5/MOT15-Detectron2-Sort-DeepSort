@@ -23,5 +23,8 @@ Colab Notebook was used to perform the tests
 # Detectron2 video detections
 ![D2 Detections](gifs/TDC-D2D.gif)
 
-# SORT with Detectron2 detections video
+# SORT with Detectron2 detections - video
  ![D2 Detections](gifs/TDC-D2D-SORT.gif)
+
+# Deep SORT with Detectron2 detections - video
+ ![D2 Detections](gifs/TDC-D2D-DSORT.gif)
