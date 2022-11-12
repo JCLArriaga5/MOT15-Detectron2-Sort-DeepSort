@@ -2,6 +2,8 @@
 Colab Notebook was used to perform the tests
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hhtoMwFxpOGXiXtIjEBeST9rQ6BdF5Gm?usp=sharing)
 
+As part of my professional residencies at the [CIMAT](https://www.cimat.mx/), this research and testing was carried out to learn more about MOT algorithms and later use the information to use them in RGB-D images.
+
 - Detections were obtained using [Detectron2](https://github.com/facebookresearch/detectron2)
 - The algorithms for multiple object tracking was used are [SORT](https://github.com/abewley/sort) and [Deep SORT](https://github.com/nwojke/deep_sort)
 - The MOT metrics were obtained by [py-motmetrics](https://github.com/cheind/py-motmetrics)
